@@ -1,0 +1,1 @@
+# Lama_Inpainting_Mask_Generator_with_PixelCoordinate
